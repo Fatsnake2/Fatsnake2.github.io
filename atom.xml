@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-01T10:25:58.129Z</updated>
+  <updated>2024-01-01T02:39:56.002Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客魔改教程</title>
+    <link href="http://example.com/posts/3cd46906.html"/>
+    <id>http://example.com/posts/3cd46906.html</id>
+    <published>2024-01-01T01:53:55.000Z</published>
+    <updated>2024-01-01T02:39:56.002Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="博客魔改教程如下："><a href="#博客魔改教程如下：" class="headerlink" title="博客魔改教程如下："></a>博客魔改教程如下：</h3><p>‘’’<a href="https://blog.anheyu.com/">https://blog.anheyu.com/</a>‘’’</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
