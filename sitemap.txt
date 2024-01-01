@@ -1,4 +1,3 @@
 http://example.com/posts/3cd46906.html
 http://example.com/manifest.json
-http://example.com/posts/4a17b156.html
 http://example.com/
