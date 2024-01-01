@@ -43,17 +43,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/loadingpicture.css"/>
-      <url>/css/loadingpicture.css</url>
-      
-        <content type="html"><![CDATA[.loading-img {  background: url(https://picss.sunbangyan.cn/2024/01/01/b0d194f96c5c150917dd7dd00768e60b.jpeg) no-repeat center center;  background-size: cover;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
@@ -65,10 +54,32 @@
     
     <entry>
       <title></title>
+      <link href="/css/loadingpicture.css"/>
+      <url>/css/loadingpicture.css</url>
+      
+        <content type="html"><![CDATA[.loading-img {  background: url(https://picss.sunbangyan.cn/2024/01/01/b0d194f96c5c150917dd7dd00768e60b.jpeg) no-repeat center center;  background-size: cover;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/swimhead.css"/>
       <url>/css/swimhead.css</url>
       
         <content type="html"><![CDATA[/* 波浪css */.main-hero-waves-area {    width: 100%;    position: absolute;    left: 0;    bottom: -11px;    z-index: 5;  }  .waves-area .waves-svg {    width: 100%;    height: 5rem;  }  /* Animation */    .parallax > use {    animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;  }  .parallax > use:nth-child(1) {    animation-delay: -2s;    animation-duration: 7s;    fill: #f7f9febd;  }  .parallax > use:nth-child(2) {    animation-delay: -3s;    animation-duration: 10s;    fill: #f7f9fe82;  }  .parallax > use:nth-child(3) {    animation-delay: -4s;    animation-duration: 13s;    fill: #f7f9fe36;  }  .parallax > use:nth-child(4) {    animation-delay: -5s;    animation-duration: 20s;    fill: #f7f9fe;  }  /* 黑色模式背景 */  [data-theme="dark"] .parallax > use:nth-child(1) {    animation-delay: -2s;    animation-duration: 7s;    fill: #18171dc8;  }  [data-theme="dark"] .parallax > use:nth-child(2) {    animation-delay: -3s;    animation-duration: 10s;    fill: #18171d80;  }  [data-theme="dark"] .parallax > use:nth-child(3) {    animation-delay: -4s;    animation-duration: 13s;    fill: #18171d3e;  }  [data-theme="dark"] .parallax > use:nth-child(4) {    animation-delay: -5s;    animation-duration: 20s;    fill: #18171d;  }    @keyframes move-forever {    0% {      transform: translate3d(-90px, 0, 0);    }    100% {      transform: translate3d(85px, 0, 0);    }  }  /*Shrinking for mobile*/  @media (max-width: 768px) {    .waves-area .waves-svg {      height: 40px;      min-height: 40px;    }  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/modify.css"/>
+      <url>/css/modify.css</url>
+      
+        <content type="html"><![CDATA[#page-header {  background: transparent !important;}#page-header.post-bg,#page-header.not-home-page {  height: 280px !important;}#page-header #post-info {  bottom: 40px !important;}#page-header #page-site-info {  top: 140px !important;}@media screen and (max-width: 768px) {  #page-header.not-home-page {    height: 200px !important;  }  #page-header #post-info {    bottom: 10px !important;  }  #page-header #page-site-info {    top: 100px !important;  }}.top-img {  height: 250px;  margin: -50px -40px 50px;  border-top-left-radius: inherit;  border-top-right-radius: inherit;  background-position: center center;  background-size: cover;  -webkit-transition: all 0.3s;  -moz-transition: all 0.3s;  -o-transition: all 0.3s;  -ms-transition: all 0.3s;  transition: all 0.3s;}@media screen and (max-width: 768px) {  .top-img {    height: 230px;    margin: -36px -14px 36px;  }}[data-theme='dark'] .top-img {  filter: brightness(0.8);}#footer:before {  background-color: rgba(255,255,255,0.5);}[data-theme='dark'] #footer:before {  background-color: rgba(0,0,0,0.5);}#footer-wrap,#footer-wrap a {  color: #111;  -webkit-transition: unset;  -moz-transition: unset;  -o-transition: unset;  -ms-transition: unset;  transition: unset;}[data-theme='dark'] #footer-wrap,[data-theme='dark'] #footer-wrap a {  color: var(--light-grey);}]]></content>
       
     </entry>
     
